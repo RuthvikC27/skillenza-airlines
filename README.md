@@ -5,7 +5,8 @@ CSV file: "airlines.csv"
 ### OUTPUT -
 **Output - 1**
 
-``` {
+``` 
+{
     "Atlanta, GA: Hartsfield-Jackson Atlanta International": 154,
     "Baltimore, MD: Baltimore/Washington International Thurgood Marshall": 150,
     "Boston, MA: Logan International": 150,
@@ -35,11 +36,16 @@ CSV file: "airlines.csv"
     "Tampa, FL: Tampa International": 149,
     "Washington, DC: Ronald Reagan Washington National": 150,
     "Washington, DC: Washington Dulles International": 150
-} ```
+} 
+```
 
 **Output - 2**
-``` Atlanta, GA: Hartsfield-Jackson Atlanta International 154 ```
+```
+ Atlanta, GA: Hartsfield-Jackson Atlanta International 154
+  ```
 
 
 **Output - 3**
-``` Phoenix, AZ: Phoenix Sky Harbor International 137 ```
+``` 
+Phoenix, AZ: Phoenix Sky Harbor International 137
+ ```
