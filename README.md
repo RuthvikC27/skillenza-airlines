@@ -4,7 +4,7 @@ CSV file: "airlines.csv"
 
 ### OUTPUT -
 
-### Airport count
+### Airports count
 **Output - 1**
 
 ``` 
