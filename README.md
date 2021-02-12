@@ -3,6 +3,8 @@
 CSV file: "airlines.csv"
 
 ### OUTPUT -
+
+### Airport count
 **Output - 1**
 
 ``` 
@@ -39,12 +41,13 @@ CSV file: "airlines.csv"
 } 
 ```
 
+### Maximum number of airports
 **Output - 2**
 ```
  Atlanta, GA: Hartsfield-Jackson Atlanta International 154
   ```
 
-
+### Minimum number of airports
 **Output - 3**
 ``` 
 Phoenix, AZ: Phoenix Sky Harbor International 137
